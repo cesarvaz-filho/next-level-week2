@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 # Autor
 
 Feito com dedicação e carinho por César Vaz.
-[GitHub](https://github.com/cesarvaz-filho)
-[Linkedin](https://www.linkedin.com/in/cesar-vaz-059667175/)
-Email: cesar_augusto_perfil@hotmail.com
-Entre em contato!👋🏽🚀
+- [GitHub](https://github.com/cesarvaz-filho)
+- [Linkedin](https://www.linkedin.com/in/cesar-vaz-059667175/)
+- Email: cesar_augusto_perfil@hotmail.com
+- Entre em contato!👋🏽🚀
