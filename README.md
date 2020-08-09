@@ -1,6 +1,6 @@
 # Proffy
 
-## Plataforma mobile e web criada durante a next-level-week2 para conectar professores e alunos.
+### Plataforma mobile e web criada durante a next-level-week2 para conectar professores e alunos.
 
 # Status
 <h4 align="center"> 
@@ -15,6 +15,10 @@
 - [x] Entrar em contato por whatsapp
 
 # Banner
+
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/web.png" />
+</h1>
 
 # Como rodar a aplicação
 
