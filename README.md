@@ -21,7 +21,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/mobile.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/mobile.png" width="500" height="800" />
 </h1>
 
 # Como rodar a aplicação
