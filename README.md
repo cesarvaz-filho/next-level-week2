@@ -104,3 +104,6 @@ Feito com dedicação e carinho por César Vaz.
 - [Linkedin](https://www.linkedin.com/in/cesar-vaz-059667175/)
 - Email: cesar_augusto_perfil@hotmail.com
 - Entre em contato!👋🏽🚀
+
+# Licença
+MIT
