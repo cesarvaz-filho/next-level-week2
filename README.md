@@ -20,6 +20,10 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/web.png" />
 </h1>
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./screenshots/mobile.png" />
+</h1>
+
 # Como rodar a aplicação
 
 ### Pré-requisitos
@@ -92,3 +96,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+
+# Autor
+
+Feito com dedicação e carinho por César Vaz.
+[GitHub](https://github.com/cesarvaz-filho)
+[Linkedin](https://www.linkedin.com/in/cesar-vaz-059667175/)
+Email: cesar_augusto_perfil@hotmail.com
+Entre em contato!👋🏽🚀
